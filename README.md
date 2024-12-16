@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/zJ6Irrf.png"/>
+<img src="https://i.imgur.com/1aYDBzI.png"/>
 </p>
 
 <h1>Observing ICMP Traffic</h1>
