@@ -14,7 +14,8 @@ This tutorial outlines the observation and filtering of ICMP traffic on a Window
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- WireShark
+- Powershell
 
 <h2>Operating Systems Used </h2>
 
