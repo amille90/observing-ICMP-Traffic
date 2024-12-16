@@ -3,7 +3,7 @@
 </p>
 
 <h1>Observing ICMP Traffic</h1>
-This tutorial outlines the observation and filtering of ICMP traffic on a Windows10 Virtual Machine via Wireshark and Powershell.<br />
+This tutorial outlines the observation and filtering of ICMP traffic using Windows10 and Linux Ubuntu Virtual Machines via Wireshark and Powershell.<br />
 
 
 <h2>Video Demonstration</h2>
