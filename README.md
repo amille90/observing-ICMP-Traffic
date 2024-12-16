@@ -3,7 +3,7 @@
 </p>
 
 <h1>Observing ICMP Traffic</h1>
-This tutorial outlines the observation of a packet capture and filtering of ICMP traffic using a "ping" within Windows10 and Linux Ubuntu Virtual Machines via Wireshark and Powershell.Monitoring ICMP traffic helps with troubleshooting and diagnosis in network performance, reachability, and a first step towards security analysis. <br />
+This tutorial outlines the observation of a packet capture and filtering of ICMP traffic using a "ping" within Windows10 and Linux Ubuntu Virtual Machines via Wireshark and Powershell. Monitoring ICMP traffic helps with troubleshooting and diagnosis in network performance, reachability, and a first step towards security analysis. <br />
 
 
 <h2>Video Demonstration</h2>
