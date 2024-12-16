@@ -1,11 +1,5 @@
-# observing-ICMP-Traffic
-
-
-
-
-
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img srchttps://i.imgur.com/3jp2d8B.png="/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
