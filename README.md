@@ -21,7 +21,7 @@ This tutorial outlines the observation of a packet capture and filtering of ICMP
 
 <h2>List of Prerequisites</h2>
 
--Cpmputer Desktop/Laptop
+- Computer Desktop/Laptop
 - Wifi Connection
 - Azure Account
 - Remote Desktop
