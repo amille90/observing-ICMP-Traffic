@@ -274,7 +274,7 @@ Step 30: In this step a ping will be set in place to try and respond to the wind
 <img src="https://i.imgur.com/g7pKpVf.png"/>
 </p>
 <p>
-Step 31: Now observe both the Wireshark and Windows Powershell Apps with the ICMP filtered traffic. You can now see the spam traffic has been filtered out and its much easier to see the Windows10-vm and linux ubuntu-vm request/reply communications passing through. Also note how the private ip addresses are alternating under the source colume in Wireshark which is indicating that one private ip is sending out a request and the other one is responding. They can also be called echo pings. 
+Step 31: Now observe both the Wireshark and Windows Powershell Apps with the ICMP filtered traffic. You can now see the spam traffic has been filtered out and its much easier to see the Windows10-vm and linux ubuntu-vm request/reply communications passing through. Also note how the private ip addresses are alternating under the source colume in Wireshark, indicating that one private ip is sending out a request and the other one is responding. They can also be called echo pings. 
   
 This here is a breif observation of ICMP traffic and conclusion of this project tutorial.
 </p>
