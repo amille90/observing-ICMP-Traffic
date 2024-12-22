@@ -114,7 +114,7 @@ Step 10: On the Choose Components page press next.
 <img src="https://i.imgur.com/E4IE1XY.png"/>
 </p>
 <p>
-Step 11: On the Additional Tasks page make sure the Wireshark Start Menu and Associate Trace File Extensions is checked off. Press next.
+Step 11: On the Additional Tasks page make sure the Wireshark Start Menu and Associate Trace File Extensions are checked off. Press next.
 </p>
 <br />
 
