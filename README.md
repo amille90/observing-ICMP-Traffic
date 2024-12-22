@@ -12,6 +12,7 @@ This tutorial outlines the observation of a packet capture and filtering of ICMP
 - Remote Desktop
 - WireShark
 - Powershell
+  
 
 <h2>Operating Systems Used </h2>
 
@@ -20,11 +21,10 @@ This tutorial outlines the observation of a packet capture and filtering of ICMP
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+-Cpmputer Desktop/Laptop
+- Wifi Connection
+- Azure Account
+- Remote Desktop
 
 <h2>Installation Steps</h2>
 
