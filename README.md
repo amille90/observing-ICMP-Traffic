@@ -6,10 +6,6 @@
 This tutorial outlines the observation of a packet capture and filtering of ICMP traffic using a "ping" within Windows10 and Linux Ubuntu Virtual Machines via Wireshark and Powershell. Monitoring ICMP traffic helps with troubleshooting and diagnosis in network performance, reachability, and security analysis. <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -19,7 +15,8 @@ This tutorial outlines the observation of a packet capture and filtering of ICMP
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 (21H2)
+- Linux/Ubuntu </b>
 
 <h2>List of Prerequisites</h2>
 
