@@ -218,7 +218,7 @@ Step 23: Next in the upper left corner click on the blue shark symbol to begin r
 <img src="https://i.imgur.com/QOjOt1j.png"/>
 </p>
 <p>
-Step 24: When running the packet capture try to make an observation of the spam traffic amongst the private ip address of the windows10-vm private ip address.
+Step 24: When running the packet capture try to make an observation of the spam traffic amongst the private ip address of the windows10-vm.
 </p>
 <br />
 
