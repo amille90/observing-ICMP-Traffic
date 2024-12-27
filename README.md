@@ -266,7 +266,7 @@ Step 30:
 <img src="https://i.imgur.com/qWnGkrT.png"/>
 </p>
 <p>
-In this step a ping will be set in place to try and respond to the windows10-vm from the linux ubuntu virtual machine. In the command line of Powershell type in ping and paste in the private ip address of the linux ubuntu excatly as how you see it in the image. Make sure theres a space between ping and ip address. It should look like this: ping 10.0.0.5. then press enter.
+In this step a ping will be set in place to try and respond to the windows10-vm from the linux ubuntu virtual machine. In the command line of Powershell type in ping and paste in the private ip address of the linux ubuntu excatly as how you see it in the image. Make sure theres a space between ping and ip address. It should look like this: ping 10.0.0.5, then press enter.
 </p>
 <br />
 Step 31:
